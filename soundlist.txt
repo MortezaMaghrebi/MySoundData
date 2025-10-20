@@ -53,27 +53,7 @@ music,نور شفابخش,sun.png,music/ai/ai_healing_light.mp3,70,0,0
 music,امواج شفابخش,waves.png,music/ai/ai_healing_waves.mp3,70,0,0
 music,سرمای قطبی,sun.png,music/ai/ai_antarctic_sadness.mp3,70,0,0
 music,بافنده رویا,waves.png,music/ai/ai_dream_weaver.mp3,70,0,0
-music,نوازش فرشته ای,sleep.png,music/dan_gibson/dg_an_angles_caress.mp3,70,0,0
-music,رهروی در سرزمین خواب,sleep.png,music/dan_gibson/dg_drifting_in_dreamland.mp3,70,0,0
-music,نخستین ستاره افق,sleep.png,music/dan_gibson/dg_first_star_in_sky.mp3,70,0,0
-music,فرود آرام,sleep.png,music/dan_gibson/dg_gentle_descent.mp3,70,0,0
-music,نیمه شب نیلی,sleep.png,music/dan_gibson/dg_midnight_blue.mp3,70,0,0
-music,آرام و آسوده,sleep.png,music/dan_gibson/dg_safe_and_sound.mp3,70,0,0
-music,سایه روشن های شفق,sleep.png,music/dan_gibson/dg_twilight_fades.mp3,70,0,0
-music,جهانی دور,sleep.png,music/dan_gibson/dg_worlds_away.mp3,70,0,0
-music,پژواک محیطی زمین,globe.png,music/chris_anes/chris_anes_ambient_echoes_of_the_earth.mp3,70,0,0
-music,سرزمین رویاها,dream.png,music/chris_anes/chris_anes_ambient_land_of_dreams.mp3,70,0,0
-music,خاطرات,memories.png,music/david_tolk/david_tolk_memories.mp3,70,0,0
-music,دعا,pray.png,music/david_tolk/david_tolk_pray.mp3,70,0,0
-music,پس از نیمه شب,midnight.png,music/dyathon/dyathon_after_midnight.mp3,70,0,0
-music,همه در دریا,sea.png,music/dyathon/dyathon_all_at_sea.mp3,70,0,0
-music,باغ کلمات,garden.png,music/dyathon/dyathon_the_garden_of_words.mp3,70,0,0
-music,یک بهار سرد,winter.png,music/eamonn_watt/eamonn_watt_one_cold_spring.mp3,70,0,0
-music,شبی در پاریس,eiffel_tower.png,music/paul_cardall/paul_cardall_an_evening_in_paris.mp3,70,0,0
-music,گل سرخ من,rose.png,music/peder_b_helland/peder_b_helland_my_rose.mp3,70,0,0
-music,عمق جنگل,forest.png,music/other/other_deep_in_the_forest.mp3,70,0,0
 music,جزر و مد متغیر,tides.png,music/other/other_turning_tides.mp3,70,0,0
-music,پناهگاه,tent.png,music/secret_garden/sg_sanctuary.mp3,70,0,0
 noise,نویز قهوه‌ای,music.png,noise/brown_noise.mp3,30,0,0
 noise,نویز سفید,music.png,noise/white_noise.mp3,30,0,0
 wave,آداجیو آلفا,alpha.png,wave/Adagio_Alpha_105_115Hz.mp3,20,0,0
