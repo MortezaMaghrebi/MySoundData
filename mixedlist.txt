@@ -62,13 +62,13 @@ s,مانترا آلفا_تتا,Mantra_Alpha_Theta,15,120,1800,true
 m,0,mountainMix,6,کوهستان مه‌آلود,covers/mountain_peak_fog.jpg,1800,صدای طبیعت بکر کوهستان
 ~~
 s,باد,wind,45,0,1800,true
-s,جریان آب,water_flow,35,20,1780,true
+s,آب کوهستان,water_cascade_down_rock,10,20,1780,true
 s,پرنده,bird,25,90,350,false
 s,زمستان,paul_cardall_an_evening_in_paris,70,0,1800,false
 #
 m,0,lakeMix,7,دریاچه آرام,covers/lake_reflection_water.jpg,1800,انعکاس آرامش در آب‌های دریاچه
 ~~
-s,آب,brian_water,55,0,1800,false
+s,غروب دریاچه,lake_sunset,55,0,1800,false
 s,قورباغه,frog,35,45,180,false
 s,جیرجیرک,cricket,30,90,240,true
 s,رقص پروانه,other_turning_tides,70,0,1800,false
@@ -77,7 +77,7 @@ s,آب روان,dg_water_flow,70,20,300,false
 m,0,waterfallMix,8,آبشار خروشان,covers/waterfall_river_nature.jpg,1800,انرژی بخش و نشاط آور
 ~~
 s,آبشار,waterfall,65,0,1800,true
-s,جریان آب,water_flow,45,0,1800,true
+sآب کوهستان,water_cascade_down_rock,45,0,1800,true
 s,پرنده,bird,30,45,200,false
 s,آزادی,dyathon_the_garden_of_words,0,50,0,1800,false
 #
