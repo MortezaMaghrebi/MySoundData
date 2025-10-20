@@ -3,7 +3,7 @@
 s,باد,wind2,25,0,120,true
 s,نهنگ,whale,36,70,110,true
 s,جزر و مد متغیر,other_turning_tides,60,0,900,false
-s,نوازش فرشته ای,dg_an_angles_caress,80,60,900,false 
+s,سرمای قطبی,ai_antarctic_sadness,60,60,900,false 
 s,رهروی در سرزمین خواب,dg_drifting_in_dreamland,75,60,900,false 
 s,یک بهار سرد,eamonn_watt_one_cold_spring,70,90,900,false
 s,امواج شفاف,Alpha_Lucid_Waves,25,0,1800,true
