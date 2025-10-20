@@ -1,12 +1,12 @@
-m,0,arcticMix,1,ماجرای قطب شمال,covers/arctic_ice_landscape.jpg,1800,سفر به سرزمین یخ‌ها
+﻿m,0,arcticMix,1,ماجرای قطب شمال,covers/arctic_ice_landscape.jpg,1800,سفر به سرزمین یخ‌ها
 ~~
 s,باد,wind2,25,0,120,true
 s,نهنگ,whale,36,70,110,true
-s,پناهگاه,sg_sanctuary,60,0,900,false
+s,جزر و مد متغیر,other_turning_tides,60,0,900,false
 s,نوازش فرشته ای,dg_an_angles_caress,80,60,900,false 
 s,رهروی در سرزمین خواب,dg_drifting_in_dreamland,75,60,900,false 
 s,یک بهار سرد,eamonn_watt_one_cold_spring,70,90,900,false
-s,امواج شفاف,Alpha_Lucid_Waves,35,100,1800,true
+s,امواج شفاف,Alpha_Lucid_Waves,25,0,1800,true
 s,داستان قطب شمال,story_north_pole,100,20,955,false
 #
 m,1,singleTreeMix,2,تک درخت,covers/single_tree_in_bliss.jpg,1800,دویدن در چمنزار
@@ -18,7 +18,7 @@ s,نیمه شب نیلی,dg_midnight_blue,100,240,900,false
 s,پژواک محیطی زمین,chris_anes_ambient_echoes_of_the_earth,35,250,900,false 
 s,نخستین ستاره در آسمان,dg_first_star_in_sky,30,270,900,false 
 s,خاطرات,david_tolk_memories,30,290,900,false 
-s,تمرکز آلفا ۱,Alpha_Focus_107_115Hz,15,0,1200,true
+s,تمرکز آلفا ۱,Alpha_Focus_107_115Hz,25,0,1200,true
 #
 m,1,beachMix,3,ساحل آرام,covers/beach_sea_coast_sunset.jpg,1800,ترکیبی آرامش‌بخش از صدای دریا و مرغان دریایی
 ~~
@@ -28,7 +28,7 @@ s,باد,wind,10,20,40,true
 s,جاده ابریشم,ai_healing_waves,100,5,1800,false 
 s,کاروانسرا,ai_healing_light,100,30,1800,false 
 s,باغ مخفی,dg_gentle_descent,100,50,1800,false 
-s,امواج شفاف,Alpha_Lucid_Waves,7,0,180,true
+s,امواج شفاف,Alpha_Lucid_Waves,15,0,180,true
 #
 m,1,darkSeaMix,4,دریای تاریک و طوفانی,covers/dark_thunder_sea.jpg,1800,ترکیبی از دریای طوفانی، رعد و برق و موسیقی کاروان
 ~~
