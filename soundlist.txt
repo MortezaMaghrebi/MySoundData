@@ -69,6 +69,7 @@ music,شبی در پاریس,eiffel_tower.png,music/paul_cardall/paul_cardall_an
 music,گل سرخ من,rose.png,music/peder_b_helland/peder_b_helland_my_rose.mp3,70,0,0
 music,عمق جنگل,forest.png,music/other/other_deep_in_the_forest.mp3,70,0,0
 music,جزر و مد متغیر,tides.png,music/other/other_turning_tides.mp3,70,0,0
+music,پناهگاه,tent.png,music/secret_garden/sg_sanctuary.mp3,70,0,0
 noise,نویز قهوه‌ای,music.png,noise/brown_noise.mp3,30,0,0
 noise,نویز سفید,music.png,noise/white_noise.mp3,30,0,0
 wave,آداجیو آلفا,alpha.png,wave/Adagio_Alpha_105_115Hz.mp3,20,0,0
