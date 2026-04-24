@@ -141,8 +141,8 @@ music,شبی در پاریس,eiffel_tower.png,assets/music/paul_cardall/paul_car
 music,گل سرخ من,rose.png,assets/music/peder_b_helland/peder_b_helland_my_rose.mp3,70,0,0
 music,عمق جنگل,forest.png,assets/music/other/other_deep_in_the_forest.mp3,70,0,0
 music,جزر و مد متغیر,tides.png,assets/music/other/other_turning_tides.mp3,70,0,0
-noise,نویز قهوه‌ای,music.png,noise/brown_noise.mp3,30,0,0
-noise,نویز سفید,music.png,noise/white_noise.mp3,30,0,0
+noise,نویز قهوه‌ای,music.png,assets/noise/brown_noise.mp3,30,0,0
+noise,نویز سفید,music.png,assets/noise/white_noise.mp3,30,0,0
 wave,آداجیو آلفا,alpha.png,assets/wave/Adagio_Alpha_105_115Hz.mp3,20,0,0
 wave,آلفا سعادت,alpha.png,assets/wave/Alpha_Bliss_107_115Hz.mp3,20,0,0
 wave,امواج آلفا,alpha.png,assets/wave/Alpha_Brain_Waves.mp3,20,0,0
