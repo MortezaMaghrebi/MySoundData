@@ -1,22 +1,22 @@
-nature,پرنده,bird.png,assets/assets/nature/bird.mp3,10,0,0
-nature,پرندگان,hummingbird.png,assets/assets/nature/birds.mp3,10,0,0
-nature,گربه خرخر,cat.png,assets/assets/nature/cat_purring.mp3,10,0,0
-nature,جیرجیرک,cricket.png,assets/assets/nature/cricket.mp3,10,0,0
-nature,چکه آب,water.png,assets/assets/nature/dripping.mp3,10,0,0
-nature,آتش هیزم,campfire.png,assets/assets/nature/firewood.mp3,10,0,0
-nature,جنگل,forest.png,assets/assets/nature/forest.mp3,10,0,0
-nature,قورباغه,frog.png,assets/assets/nature/frog.mp3,10,0,0
-nature,چمنزار,grass.png,assets/assets/nature/grassland.mp3,10,0,0
-nature,باران شدید,rain.png,assets/assets/nature/heavy_rain.mp3,10,0,0
-nature,پرنده لون,bird.png,assets/assets/nature/loon.mp3,10,0,0
-nature,جغد,owl.png,assets/assets/nature/owl.mp3,10,0,0
-nature,باران,rain.png,assets/assets/nature/rain.mp3,10,0,0
-nature,باران روی سقف,rain.png,assets/assets/nature/rain_on_roof.mp3,10,0,0
-nature,باران روی چادر,tent.png,assets/assets/nature/rain_on_tent.mp3,10,0,0
-nature,باران روی پنجره,window.png,assets/assets/nature/rain_on_window.mp3,10,0,0
-nature,دریا,sea.png,assets/assets/nature/sea.mp3,10,0,0
-nature,مرغ دریایی,seagull.png,assets/assets/nature/seagull.mp3,10,0,0
-nature,برف,snow.png,assets/assets/nature/snow.mp3,10,0,0
+nature,پرنده,bird.png,assets/nature/bird.mp3,10,0,0
+nature,پرندگان,hummingbird.png,assets/nature/birds.mp3,10,0,0
+nature,گربه خرخر,cat.png,assets/nature/cat_purring.mp3,10,0,0
+nature,جیرجیرک,cricket.png,assets/nature/cricket.mp3,10,0,0
+nature,چکه آب,water.png,assets/nature/dripping.mp3,10,0,0
+nature,آتش هیزم,campfire.png,assets/nature/firewood.mp3,10,0,0
+nature,جنگل,forest.png,assets/nature/forest.mp3,10,0,0
+nature,قورباغه,frog.png,assets/nature/frog.mp3,10,0,0
+nature,چمنزار,grass.png,assets/nature/grassland.mp3,10,0,0
+nature,باران شدید,rain.png,assets/nature/heavy_rain.mp3,10,0,0
+nature,پرنده لون,bird.png,assets/nature/loon.mp3,10,0,0
+nature,جغد,owl.png,assets/nature/owl.mp3,10,0,0
+nature,باران,rain.png,assets/nature/rain.mp3,10,0,0
+nature,باران روی سقف,rain.png,assets/nature/rain_on_roof.mp3,10,0,0
+nature,باران روی چادر,tent.png,assets/nature/rain_on_tent.mp3,10,0,0
+nature,باران روی پنجره,window.png,assets/nature/rain_on_window.mp3,10,0,0
+nature,دریا,sea.png,assets/nature/sea.mp3,10,0,0
+nature,مرغ دریایی,seagull.png,assets/nature/seagull.mp3,10,0,0
+nature,برف,snow.png,assets/nature/snow.mp3,10,0,0
 nature,رعد و برق,storm.png,assets/nature/thunder.mp3,10,0,0
 nature,زیر آب,submarine.png,assets/nature/under_water.mp3,10,0,0
 nature,جریان آب,water.png,assets/nature/water_flow.mp3,10,0,0
