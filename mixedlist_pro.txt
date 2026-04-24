@@ -7,11 +7,10 @@ s,نوازش فرشته ای,dg_an_angles_caress,80,60,900,false
 s,رهروی در سرزمین خواب,dg_drifting_in_dreamland,75,60,900,false 
 s,آکوا,kitaro_aqua,70,90,900,false
 s,امواج شفاف,Alpha_Lucid_Waves,35,100,1800,true
-s,داستان قطب شمال,story_north_pole,100,20,955,false
 #
 m,1,singleTreeMix,2,تک درخت,covers/single_tree_in_bliss.jpg,1800,دویدن در چمنزار
 ~~
-s,داستان چمنزار,story_grassland,100,10,240,true
+s,کوی,kitaro_koi,30,10,240,true
 s,پرندگان پاییزی,birds_autumn,15,0,50,true
 s,بلبل,bulbul,3,0,30,true
 s,نیمه شب نیلی,dg_midnight_blue,100,240,900,false 
@@ -159,7 +158,7 @@ s,دیدار,visit,50,0,1800,false
 m,0,zenMix,19,باغ ذن,covers/zen_garden_calm.jpg,1800,آرامش در باغ ژاپنی
 ~~
 s,آب کوهستان,water_cascade_down_rock,10,20,1780,true
-s,چکه آب,dripping,35,60,120,false
+s,چکه آب,dripping,35,60,80,false
 s,پرنده,bird,25,90,200,false
 s,لوتوس,sg_lotus,50,0,1800,false
 #
